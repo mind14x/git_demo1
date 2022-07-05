@@ -7,6 +7,8 @@ public class demo1 {
         System.out.println("版本三");
         System.out.println("版本四");
 
+        System.out.println("role版本五");
+
         System.out.println("Master版本五");
     }
 }
